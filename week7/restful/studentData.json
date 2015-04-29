@@ -1,0 +1,5 @@
+{"students": [
+    { "id": "M24862", "name": "Elina Kaneva", "email": "eli@gmail.com", "classes": ["JS", "XML"] }
+    { "id": "86440", "name": "George Zhuhov", "email": "jore@gmail.com", "classes": ["FP", "OOP"]},
+    { "id": "12345", "name": "Haralampi", "email": "hara@lampi.com", "classes": ["101", "Java"]}
+]}
